@@ -1,0 +1,36 @@
+.icon{
+    background: none;
+    border-radius: 50%;
+    padding: 10px;
+    margin: 5px;
+    box-shadow: none;
+    border-color: white;
+    border-width: 5px;
+    border-style: solid;
+}
+img{
+    height: 150px;
+    width: 150px;
+
+}
+body{
+    background-color: black;
+}
+.text
+{
+    color: white;
+    font:arial;
+    font-size: 25px;
+}
+.reset{
+    display: block;
+    font-size: 20px;
+    padding: 5px;
+    margin: 20px;
+    border-radius: 5px;
+    border: none;
+    background-color: white;
+    height: 50px;
+    width: auto;
+
+}
